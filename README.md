@@ -34,4 +34,4 @@ The heart of our landing page lies in its vibrant animations, brought to life by
 Follow us on [LinkedIn](https://www.linkedin.com/in/anton-kornilov-b9296323a/)
 
 ---
-
+original [figma] (https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion?type=design&node-id=0%3A1&mode=design&t=KHCKTSsHHGfsdtjo-1)
